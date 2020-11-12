@@ -1,5 +1,4 @@
 ---- Discord Rich Presence by DeF ----
------ Developed for EvilClowns -----
 
 Citizen.CreateThread(function()
     while true do
